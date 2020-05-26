@@ -2,7 +2,7 @@ This Repository contains a wrapper to access the SerialPort in MinGW.
 Website:http://r0sset.com/Projects/24
 
 Dependencies:
-Windows (tested under XP and 7)
+Windows (tested under XP, WIN7, WIN10)
 MinGW (not tested with Visual Studio and Cygwin)
 
 
